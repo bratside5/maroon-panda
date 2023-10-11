@@ -1,0 +1,258 @@
+[
+  {
+    "booking_id": "123456",
+    "guest_name": "John Doe",
+    "check_in_date": "2023-10-15",
+    "check_out_date": "2023-10-20",
+    "room_type": "Standard Double",
+    "contact_information": {
+      "email": "johndoe@example.com"
+    },
+    "payment": {
+      "total_amount": 500.0,
+      "balance_paid": 250.0,
+      "payment_due": true,
+      "outstanding_amount": 250.0
+    }
+  },
+  {
+    "booking_id": "789012",
+    "guest_name": "Jane Smith",
+    "check_in_date": "2023-11-01",
+    "check_out_date": "2023-11-05",
+    "room_type": "Deluxe Suite",
+    "contact_information": {
+      "email": "janesmith@example.com"
+    },
+    "payment": {
+      "total_amount": 800.0,
+      "balance_paid": 400.0,
+      "payment_due": true,
+      "outstanding_amount": 400.0
+    }
+  },
+  {
+    "booking_id": "345678",
+    "guest_name": "Alice Johnson",
+    "check_in_date": "2023-12-10",
+    "check_out_date": "2023-12-15",
+    "room_type": "Single Room",
+    "contact_information": {
+      "email": "alicejohnson@example.com"
+    },
+    "payment": {
+      "total_amount": 300.0,
+      "balance_paid": 150.0,
+      "payment_due": true,
+      "outstanding_amount": 150.0
+    }
+  },
+  {
+    "booking_id": "567890",
+    "guest_name": "Bob Wilson",
+    "check_in_date": "2023-09-25",
+    "check_out_date": "2023-09-30",
+    "room_type": "Executive Suite",
+    "contact_information": {
+      "email": "bobwilson@example.com"
+    },
+    "payment": {
+      "total_amount": 1000.0,
+      "balance_paid": 800.0,
+      "payment_due": true,
+      "outstanding_amount": 200.0
+    }
+  },
+  {
+    "booking_id": "234567",
+    "guest_name": "Eva Martinez",
+    "check_in_date": "2023-11-15",
+    "check_out_date": "2023-11-20",
+    "room_type": "Double Queen",
+    "contact_information": {
+      "email": "evamartinez@example.com"
+    },
+    "payment": {
+      "total_amount": 600.0,
+      "balance_paid": 600.0,
+      "payment_due": false,
+      "outstanding_amount": 0.0
+    }
+  },
+  {
+    "booking_id": "456789",
+    "guest_name": "Michael Brown",
+    "check_in_date": "2023-10-10",
+    "check_out_date": "2023-10-15",
+    "room_type": "Standard Double",
+    "contact_information": {
+      "email": "michaelbrown@example.com"
+    },
+    "payment": {
+      "total_amount": 400.0,
+      "balance_paid": 400.0,
+      "payment_due": false,
+      "outstanding_amount": 0.0
+    }
+  },
+  {
+    "booking_id": "678901",
+    "guest_name": "Sophia Davis",
+    "check_in_date": "2023-12-01",
+    "check_out_date": "2023-12-06",
+    "room_type": "Single Room",
+    "contact_information": {
+      "email": "sophiadavis@example.com"
+    },
+    "payment": {
+      "total_amount": 250.0,
+      "balance_paid": 200.0,
+      "payment_due": true,
+      "outstanding_amount": 50.0
+    }
+  },
+  {
+    "booking_id": "890123",
+    "guest_name": "Liam Clark",
+    "check_in_date": "2023-09-20",
+    "check_out_date": "2023-09-25",
+    "room_type": "Deluxe Suite",
+    "contact_information": {
+      "email": "liamclark@example.com"
+    },
+    "payment": {
+      "total_amount": 900.0,
+      "balance_paid": 700.0,
+      "payment_due": true,
+      "outstanding_amount": 200.0
+    }
+  },
+  {
+    "booking_id": "123789",
+    "guest_name": "Olivia White",
+    "check_in_date": "2023-11-10",
+    "check_out_date": "2023-11-15",
+    "room_type": "Double Queen",
+    "contact_information": {
+      "email": "oliviawhite@example.com"
+    },
+    "payment": {
+      "total_amount": 700.0,
+      "balance_paid": 600.0,
+      "payment_due": true,
+      "outstanding_amount": 100.0
+    }
+  },
+  {
+    "booking_id": "234890",
+    "guest_name": "William Adams",
+    "check_in_date": "2023-10-05",
+    "check_out_date": "2023-10-10",
+    "room_type": "Standard Double",
+    "contact_information": {
+      "email": "williamadams@example.com"
+    },
+    "payment": {
+      "total_amount": 300.0,
+      "balance_paid": 250.0,
+      "payment_due": true,
+      "outstanding_amount": 50.0
+    }
+  },
+  {
+    "booking_id": "345012",
+    "guest_name": "Emma Turner",
+    "check_in_date": "2023-12-20",
+    "check_out_date": "2023-12-25",
+    "room_type": "Single Room",
+    "contact_information": {
+      "email": "emmaturner@example.com"
+    },
+    "payment": {
+      "total_amount": 200.0,
+      "balance_paid": 200.0,
+      "payment_due": false,
+      "outstanding_amount": 0.0
+    }
+  },
+  {
+    "booking_id": "456123",
+    "guest_name": "James Harris",
+    "check_in_date": "2023-09-15",
+    "check_out_date": "2023-09-20",
+    "room_type": "Deluxe Suite",
+    "contact_information": {
+      "email": "jamesharris@example.com"
+    },
+    "payment": {
+      "total_amount": 750.0,
+      "balance_paid": 750.0,
+      "payment_due": false,
+      "outstanding_amount": 0.0
+    }
+  },
+  {
+    "booking_id": "567234",
+    "guest_name": "Mia Jackson",
+    "check_in_date": "2023-11-25",
+    "check_out_date": "2023-11-30",
+    "room_type": "Double Queen",
+    "contact_information": {
+      "email": "miajackson@example.com"
+    },
+    "payment": {
+      "total_amount": 600.0,
+      "balance_paid": 500.0,
+      "payment_due": true,
+      "outstanding_amount": 100.0
+    }
+  },
+  {
+    "booking_id": "678345",
+    "guest_name": "Benjamin Moore",
+    "check_in_date": "2023-10-01",
+    "check_out_date": "2023-10-06",
+    "room_type": "Standard Double",
+    "contact_information": {
+      "email": "benjaminmoore@example.com"
+    },
+    "payment": {
+      "total_amount": 450.0,
+      "balance_paid": 400.0,
+      "payment_due": true,
+      "outstanding_amount": 50.0
+    }
+  },
+  {
+    "booking_id": "789456",
+    "guest_name": "Charlotte Taylor",
+    "check_in_date": "2023-12-05",
+    "check_out_date": "2023-12-10",
+    "room_type": "Single Room",
+    "contact_information": {
+      "email": "charlottetaylor@example.com"
+    },
+    "payment": {
+      "total_amount": 250.0,
+      "balance_paid": 250.0,
+      "payment_due": false,
+      "outstanding_amount": 0.0
+    }
+  },
+  {
+    "booking_id": "890567",
+    "guest_name": "Daniel Lee",
+    "check_in_date": "2023-09-10",
+    "check_out_date": "2023-09-15",
+    "room_type": "Deluxe Suite",
+    "contact_information": {
+      "email": "daniellee@example.com"
+    },
+    "payment": {
+      "total_amount": 900.0,
+      "balance_paid": 850.0,
+      "payment_due": true,
+      "outstanding_amount": 50.0
+    }
+  }
+]
